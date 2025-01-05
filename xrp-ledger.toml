@@ -1,0 +1,24 @@
+[[ISSUERS]]
+address = "rBMVHtgm1NTQghux8kyfYgDBHDjZPyVAQG"
+name = "Masha and the Bear"
+
+[[TOKENS]]
+issuer = "rBMVHtgm1NTQghux8kyfYgDBHDjZPyVAQG"
+currency = "MNBX"
+name = "Masha and the Bear!"
+desc = "One of the most watched videos on YouTube! 4.6B! Happy New Year 2025!"
+icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.google.com"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.tiktok.com"
+type = "website"
+title = "Telegram"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.tiktok.com"
+type = "socialmedia"
