@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rBMVHtgm1NTQghux8kyfYgDBHDjZPyVAQG"
-name = "Masha and the Bear"
+address = "rMCisYHpceMuEcQ7NxGAyvYuwPiz6DSN6T"
+name = "Baby Xrp"
 
 [[TOKENS]]
-issuer = "rBMVHtgm1NTQghux8kyfYgDBHDjZPyVAQG"
-currency = "MNBX"
-name = "Masha and the Bear!"
-desc = "One of the most watched videos on YouTube! 4.6B! Happy New Year 2025!"
+issuer = "rMCisYHpceMuEcQ7NxGAyvYuwPiz6DSN6T"
+currency = "BXRP"
+name = "Baby Xrp"
+desc = "Happy New Year 2025!"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
