@@ -1,9 +1,9 @@
 [[ISSUERS]]
-address = "rMCisYHpceMuEcQ7NxGAyvYuwPiz6DSN6T"
+address = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
 name = "Baby Xrp"
 
 [[TOKENS]]
-issuer = "rMCisYHpceMuEcQ7NxGAyvYuwPiz6DSN6T"
+issuer = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
 currency = "BXRP"
 name = "Baby Xrp"
 desc = "Happy New Year 2025!"
