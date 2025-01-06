@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
-name = "Baby Xrp"
+address = "rGX1muKbU2j1vob1B5e8idbNH2pF93hy3k"
+name = "SOLX SOLANA ON XRP"
 
 [[TOKENS]]
-issuer = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
-currency = "BXRP"
-name = "Baby Xrp"
+issuer = "rGX1muKbU2j1vob1B5e8idbNH2pF93hy3k"
+currency = "SOLX"
+name = "SOLX SOLANA ON XRP"
 desc = "Happy New Year 2025!"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
